@@ -13,9 +13,9 @@ namespace MSE.Identidade.API.Configuration
             {
                 c.SwaggerDoc("v1", new OpenApiInfo()
                 {
-                    Title = "My Store Enterprise Identity API",
-                    Description = "Esta API faz parte do projeto My Store Enterprise Applications.",
-                    Contact = new OpenApiContact() { Name = "Guilherme de Alvarenga", Url = new Uri("https://www.linkedin.com/in/guilherme-alvarenga/") },
+                    Title = "NerdStore Enterprise Identity API",
+                    Description = "Esta API faz parte do curso ASP.NET Core Enterprise Applications.",
+                    Contact = new OpenApiContact() { Name = "Eduardo Pires", Email = "contato@desenvolvedor.io" },
                     License = new OpenApiLicense() { Name = "MIT", Url = new Uri("https://opensource.org/licenses/MIT") }
                 });
 
