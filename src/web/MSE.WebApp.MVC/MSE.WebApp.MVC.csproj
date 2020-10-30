@@ -20,4 +20,8 @@
     <Folder Include="Views\Catalogo\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\building blocks\MSE.Core\MSE.Core.csproj" />
+  </ItemGroup>
+
 </Project>
